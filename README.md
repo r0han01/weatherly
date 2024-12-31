@@ -2,6 +2,8 @@
 
 A simple weather application that fetches and displays real-time weather information for any city using the OpenWeatherMap API.
 
+![ScreenShot Tool -20241231041332](https://github.com/user-attachments/assets/03d14795-1893-4df1-98fc-1850ed19ad93)
+
 ## **Features**
 - Search for weather information by city name.
 - Displays temperature, weather description, humidity, and wind speed.
@@ -80,7 +82,7 @@ Weather-App/
 ```
 
 Screenshots
-- 
+- ![ScreenShot Tool -20241231041406](https://github.com/user-attachments/assets/6f4ebff5-a510-4e1e-af58-c8b786858c72)
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
